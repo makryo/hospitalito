@@ -31,6 +31,7 @@
                             <br>
                             <input type="text" name="especialidad" value="{{ $Edita->especialidad }}" required class="form-control">
                             <br>
+                            <a href="/medicos" type="button" class="btn btn-danger">Regresar</a>
                             <input type="submit" value="Guardar" class="btn btn-success">
                         </form>
 

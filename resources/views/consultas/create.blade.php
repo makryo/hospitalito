@@ -63,7 +63,7 @@ $medic = Medico::all();
                                 </select>
                             </div>
                             <br>
-                            
+                            <a href="/consultas" type="button" class="btn btn-danger">Regresar</a>
                             <input type="submit" value="Guardar" class="btn btn-primary">
                         </form>  
                 </div>

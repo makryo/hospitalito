@@ -38,6 +38,7 @@
                                 <input type="text" class="form-control" name="especialidad" required>
                             </div>
                             <br>
+                            <a href="/medicos" type="button" class="btn btn-danger">Regresar</a>
                             <input type="submit" value="Guardar" class="btn btn-primary">
                         </form>  
                 </div>

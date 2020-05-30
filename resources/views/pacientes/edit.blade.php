@@ -37,6 +37,7 @@
                             <br>
                             <input type="text" name="genero" value="{{ $Edita->genero }}" required class="form-control">
                             <br>
+                            <a href="/pacientes" type="button" class="btn btn-danger">Regresar</a>
                             <input type="submit" value="Guardar" class="btn btn-success">
                         </form>
 

@@ -29,6 +29,7 @@
                             <br>
                             <input type="text" name="numero de camas" value="{{ $Edita->n_camas }}" required class="form-control">
                             <br>
+                            <a href="/plantas" type="button" class="btn btn-danger">Regresar</a>
                             <input type="submit" value="Guardar" class="btn btn-success">
                         </form>
 

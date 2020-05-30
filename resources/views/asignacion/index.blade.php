@@ -34,6 +34,7 @@ $host = 'localhost';
                               <th>alta</th>
                             </tr>
                           </thead>
+                          <tbody>
                         <?php
                     
                         try {
@@ -66,9 +67,14 @@ $host = 'localhost';
                                     . "</td><td>"
                                     . $values["alta"]
                                     . "</td></tr></tbody>";
+                            
                             }
+                            
                         ?>
                         
+                            </tbody>
+                            
+                            
                             </table>
                             
                             </div>

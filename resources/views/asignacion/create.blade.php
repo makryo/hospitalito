@@ -75,6 +75,7 @@ $plant = Planta::all();
                                 </select>
                             </div>
                             <br>
+                            <a href="/asignacion" type="button" class="btn btn-danger">Regresar</a>
                             <input type="submit" value="Guardar" class="btn btn-primary">
                         </form>  
                 </div>

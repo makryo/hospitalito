@@ -30,6 +30,7 @@
                                     <option value="0">ocupado</option>
                             </select>
                             <br>
+                            <a href="/plantascama" type="button" class="btn btn-danger">Regresar</a>
                             <input type="submit" value="Guardar" class="btn btn-success">
                         </form>
 
